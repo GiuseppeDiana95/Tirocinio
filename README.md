@@ -1,4 +1,4 @@
-#Plugin intercept Mirador event
+## Plugin intercept Mirador event
 Il plugin è stato implementato come un componente React integrato nell'applicazione Mirador. Lo scopo dello sviluppo del plugin è quello di monitorare e registrare eventi specifici da parte di un utente all'interno dell'applicazione. Una volta intercettato l’evento, tutte le informazioni relative a quest’ultimo vengono inviate ad un server Restful locale tramite richieste HTTP.
 
 ## Integrating Mirador
