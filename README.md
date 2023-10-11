@@ -31,5 +31,10 @@ npm run webpack
 See `./parcel`, but essentially it is just an html file referencing the JavaScript.
 
 ```sh
-for run MIradon use `npm run parcel`
+npm run parcel
 ```
+Run Mirador with the command
+```sh
+npm run parcel
+```
+
