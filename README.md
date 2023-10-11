@@ -1,4 +1,4 @@
-## Mirador Plugin that intercept click, zoom canvas change event
+## Mirador Plugin that intercept click, zoom and canvas change event
 The plugin was implemented as a React component integrated into the Mirador application. The purpose of plugin development is to monitor and record specific events by a user within the application. Once the event is intercepted, all information relating to it is sent to a local Restful server via HTTP requests.
 The plugin monitors three main types of events within Mirador:
 - `handleClick:` The plugin detects clicks on specific elements within Mirador windows and records these interactions, including details of the clicked element.
