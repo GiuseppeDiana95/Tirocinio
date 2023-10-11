@@ -33,7 +33,7 @@ See `./parcel`, but essentially it is just an html file referencing the JavaScri
 ```sh
 npm run parcel
 ```
-Run Mirador with the command
+##Run Mirador with the command
 ```sh
 npm run parcel
 ```
